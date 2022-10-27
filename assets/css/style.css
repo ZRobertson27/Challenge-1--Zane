@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* sets style for Horiseon logo */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,11 +19,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Stylizes the header to change the color of the 'seo' part of Horiseon*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Set the position and font style of the header. */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* List styled to not contain bullet points */
 .header div ul {
     list-style-type: none;
 }
-
+/* Keeps list inline to appear horizontally on page at all times. */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* creates stylized box for relevant information. */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* creates stylized box for relevant information. */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* creates stylized box for relevant information. */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* style and placement of footer */
 .footer {
     padding: 30px;
     clear: both;
